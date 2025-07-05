@@ -1,0 +1,83 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  
+}
+body{
+  background-image: url("assets\background image.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.annam{
+  margin-top: 130px;
+  color: white;
+  font-size: 150px;
+  text-align: center;
+  /* position: absolute;
+  top:30px; */
+}
+.solgan{
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.Logintag ,.Cheftag{
+  text-decoration: none;
+  color: white;
+  font-size: 27px;
+  position: absolute;
+  top: 25px;
+}
+.Logintag{
+  right: 370px;
+}
+.Cheftag{
+  right: 130px;
+}
+
+.userId,.Chef{
+  width: 310px;
+  height: 310px;
+  border: 2px solid white;
+  background-color: white;
+  border-radius: 20px;
+
+
+}
+.userBox ,.chefBox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  background-color:rgba(0, 0, 0, 0.7);
+  position: relative;
+  
+  /* full screen height */
+  /* background-color: #f0f0f0; optional */
+}
+.in1,.in2{
+  width:250px;
+  height:30px;
+  margin-Top:15px;
+  margin-Left:35px;
+  color:black;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-size: 20px;
+  font-family: sans-serif;
+  /* background-color: antiquewhite; */
+}
+.ub1{
+  width:250px;
+  height:30px;
+  margin-Top:15px;
+  margin-Left:35px;
+  color:black;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-size: 20px;
+  font-family: sans-serif;
+  background-color: brown;
+}
+
+
