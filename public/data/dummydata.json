@@ -1,0 +1,60 @@
+ {"menu" : [ 
+        {
+        "id":1,    
+        "names":"Sambar",
+        "image":"http://localhost:3000/assets/sambar.jpg",
+        "rs": "50.00",
+        "buy":"buy",
+        "details":"Fresh vegtables and Spiecy "
+        },
+        {
+        "id":2,
+        "names":"Lemonrice",
+        "image":"http://localhost:3000/assets/lemon rice.jpg",
+        "rs":"50.00",
+        "buy":"buy",
+        "details":"Rolls with fresh vegtables and tastey"
+        },
+        {
+        "id":3,
+        "names":"Curd Rice",
+        "image":"http://localhost:3000/assets/curd rice.jpg",
+        "rs": "80.00",
+        "buy":"buy",
+        "details":"Rolls with fresh vegtables and tastey"
+        },
+        {
+        "id":4,
+        "names":"Biriyani",
+        "image":"http://localhost:3000/assets/biriyani.jpg",
+        "rs": "80.00",
+        "buy":"buy",
+        "details":"Rolls with fresh vegtables and tastey"
+        },
+        {
+        "id":5,
+        "names":"Chicken Fry",
+        "image":"http://localhost:3000/assets/chicken fry.jpg",
+        "rs": "80.00",
+        "buy":"buy",
+        "details":"Rolls with fresh vegtables and tastey"
+        },
+        {
+        "id":6,
+        "names":"Chicken Kulambu",
+        "image":"http://localhost:3000/assets/chicken soup.jpg",
+        "rs": "80.00",
+        "buy":"buy",
+        "details":"Rolls with fresh vegtables and tastey"
+        },
+        {
+        "id":7,
+        "names":"Mutton Kulambu",
+        "image":"http://localhost:3000/assets/mutton soup.jpg",
+        "rs": "80.00",
+        "buy":"buy",
+        "details":"Rolls with fresh vegtables and tastey"
+        }
+        
+    ]
+ }

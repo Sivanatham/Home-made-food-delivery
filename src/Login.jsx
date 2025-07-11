@@ -10,7 +10,7 @@ function Login () {
                 <Link to ="/user-login" className="Logintag">Login</Link>
             </h4>
             <h4 >
-                <Link to="/chef" className="Cheftag">Add Restraurnt </Link>
+                <Link to="/chef" className="Cheftag">Restraurnt Login</Link>
             </h4>
             
         </div>

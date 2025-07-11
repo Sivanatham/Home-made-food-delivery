@@ -9,7 +9,6 @@ function UserLogin (){
                 <Link to="/" style={{textDecoration:'none',fontSize:'20px', color:'black'}}>
                         <button className="ub1">Sign In</button>
                 </Link>
-
                 <br /><br /><br />
                 <h4 style={{ marginLeft:'15px', fontSize:'16px'}}>Create a new Annam account ? <span> <Link to="/user-registration" style={{textDecoration:'none',color:'brown'}}>Sign Up</Link></span></h4>
             </div>

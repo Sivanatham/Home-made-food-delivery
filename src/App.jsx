@@ -4,7 +4,8 @@ import Login from "./login"
 import UserLogin from './UserLogin'
 import ChefLogin from "./ChefLogin"
 import UserRegistration from "./UserRegistration"
-import ChefRegsition from "./ChefRegsition"
+import ChefRegistration from './ChefRegistration';
+// import Menu from "./Menu"
 function App() {
 
   return (
@@ -13,10 +14,9 @@ function App() {
         <Route path="/" element={<Login/>}/>
         <Route path="/user-login" element={<UserLogin/>}/>
         <Route path="/chef" element={<ChefLogin/>}/>
-        <Route path="/chef-regsition" element={<ChefRegsition/>}/>
+        <Route path="/chef-registration" element={<ChefRegistration />} />
         <Route path="/user-registration" element={<UserRegistration />} />
-
-
+        
       </Routes>
     </Router>
   );

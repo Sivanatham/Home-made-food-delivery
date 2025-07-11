@@ -52,6 +52,7 @@ body{
   background-color:rgba(0, 0, 0, 0.7);
   position: relative;
   
+  
   /* full screen height */
   /* background-color: #f0f0f0; optional */
 }
@@ -79,5 +80,78 @@ body{
   font-family: sans-serif;
   background-color: brown;
 }
-
-
+.c1,.c2{
+  width:250px;
+  height:30px;
+  margin-Top:15px;
+  margin-Left:35px;
+  color:black;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.cb1,.cb2,.crb1{
+  width:250px;
+  height:30px;
+  margin-Top:15px;
+  margin-Left:35px;
+  color:black;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-size: 20px;
+  font-family: sans-serif;
+  background-color: brown;
+}
+.cr1,.cr2,.cr3,.cr4{
+  width:250px;
+  height:30px;
+  margin-Top:15px;
+  margin-Left:35px;
+  color:black;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.menu{
+    width: 250px;
+    margin:2px;
+    height: 350px;
+    border: 1px solid black;
+    color: black;
+    background-color: lightblue;
+    padding:0px 0px 0px 0px;
+    font-family: sans-serif;
+    display: inline-block;
+    text-align: center;
+    margin-top: 0px;
+    position: relative;
+}
+.menu img{
+    width: 100px;
+    height: 100px;
+    
+}
+.buy{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+    position: absolute;
+    bottom: 18px;
+    left: 10px;
+}
+.delete{
+    width: 90px;
+    height: 30px;
+    position: absolute;
+    bottom:18px;
+    right:10px;
+    font-weight: bold;
+    cursor: pointer;
+}
